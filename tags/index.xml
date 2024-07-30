@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gharib Personal Blog</title>
+    <link>https://blog.alirezagharib.ir/tags/</link>
+    <description>Recent content in Tags on Gharib Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Alireza Gharib. All right reserved</copyright>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.alirezagharib.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dns, Acme.sh, Tls</title>
+      <link>https://blog.alirezagharib.ir/tags/dns-acme.sh-tls/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/tags/dns-acme.sh-tls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxifying</title>
+      <link>https://blog.alirezagharib.ir/tags/proxifying/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/tags/proxifying/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

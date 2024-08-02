@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website</title>
+      <link>https://blog.alirezagharib.ir/tags/website/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/tags/website/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dns, Acme.sh, Tls</title>
       <link>https://blog.alirezagharib.ir/tags/dns-acme.sh-tls/</link>

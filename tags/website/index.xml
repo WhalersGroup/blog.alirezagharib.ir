@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HAProxy as an upstream reverse proxy</title>
+      <link>https://blog.alirezagharib.ir/posts/haproxy/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/haproxy/</guid>
+      <description>How to use HAProxy as an upstream Reverse Proxy ?</description>
+    </item>
+    <item>
       <title>Let&#39;s Deploy TON Site </title>
       <link>https://blog.alirezagharib.ir/posts/tonsite/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>

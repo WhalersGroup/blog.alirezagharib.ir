@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.alirezagharib.ir/categories/</loc>
-    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.alirezagharib.ir/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/greetings/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/onions5/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/onions4/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/onions3/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/haproxy/</loc>
@@ -14,7 +29,7 @@
     <loc>https://blog.alirezagharib.ir/posts/tonsite/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.alirezagharib.ir/posts/</loc>
+    <loc>https://blog.alirezagharib.ir/posts/onions2/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/tags/</loc>
@@ -25,6 +40,9 @@
   </url><url>
     <loc>https://blog.alirezagharib.ir/tags/website/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/onions/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/dns/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>

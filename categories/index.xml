@@ -7,8 +7,106 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI, Tools</title>
+      <link>https://blog.alirezagharib.ir/categories/ai-tools/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onion, TOR, OnionLinks</title>
+      <link>https://blog.alirezagharib.ir/categories/onion-tor-onionlinks/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/onion-tor-onionlinks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App, Security</title>
+      <link>https://blog.alirezagharib.ir/categories/app-security/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/app-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CFT, CaptureTheFlag</title>
+      <link>https://blog.alirezagharib.ir/categories/cft-capturetheflag/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/cft-capturetheflag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT</title>
+      <link>https://blog.alirezagharib.ir/categories/osint/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/osint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sec, Android, Security</title>
+      <link>https://blog.alirezagharib.ir/categories/sec-android-security/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/sec-android-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SocialEngineering, Social</title>
+      <link>https://blog.alirezagharib.ir/categories/socialengineering-social/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/socialengineering-social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, Forensics</title>
+      <link>https://blog.alirezagharib.ir/categories/osint-forensics/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/osint-forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sec, Security</title>
+      <link>https://blog.alirezagharib.ir/categories/sec-security/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/sec-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking, Hack</title>
+      <link>https://blog.alirezagharib.ir/categories/hacking-hack/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/hacking-hack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, SocialMediaOSINT</title>
+      <link>https://blog.alirezagharib.ir/categories/osint-socialmediaosint/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/osint-socialmediaosint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IncidentResponse</title>
+      <link>https://blog.alirezagharib.ir/categories/incidentresponse/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/incidentresponse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, OffensiveOSINT</title>
+      <link>https://blog.alirezagharib.ir/categories/osint-offensiveosint/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/osint-offensiveosint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, OSINTCountries</title>
+      <link>https://blog.alirezagharib.ir/categories/osint-osintcountries/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/osint-osintcountries/</guid>
+      <description></description>
+    </item>
     <item>
       <title>TON</title>
       <link>https://blog.alirezagharib.ir/categories/ton/</link>
@@ -17,10 +115,17 @@
       <description></description>
     </item>
     <item>
-      <title>DNS, Acme.sh</title>
-      <link>https://blog.alirezagharib.ir/categories/dns-acme.sh/</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.alirezagharib.ir/categories/dns-acme.sh/</guid>
+      <title>Honeypots</title>
+      <link>https://blog.alirezagharib.ir/categories/honeypots/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/honeypots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>InfoSec, Sec, Security</title>
+      <link>https://blog.alirezagharib.ir/categories/infosec-sec-security/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/infosec-sec-security/</guid>
       <description></description>
     </item>
     <item>
@@ -28,6 +133,27 @@
       <link>https://blog.alirezagharib.ir/categories/proxy-vpn/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.alirezagharib.ir/categories/proxy-vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MalwareAnalysis, Malware</title>
+      <link>https://blog.alirezagharib.ir/categories/malwareanalysis-malware/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/malwareanalysis-malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pentest, PenetrationTest</title>
+      <link>https://blog.alirezagharib.ir/categories/pentest-penetrationtest/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/pentest-penetrationtest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNS, Acme.sh</title>
+      <link>https://blog.alirezagharib.ir/categories/dns-acme.sh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/dns-acme.sh/</guid>
       <description></description>
     </item>
   </channel>

@@ -38,7 +38,7 @@
 	<main>
 		<article>
 			<h1>DNS and Certificate</h1>
-			<b><time>30.07.2024 00:00</time></b>
+			<b><time>01.01.0001 00:00</time></b>
 		       
 		           <a href="/tags/dns-acme.sh-tls">dns, acme.sh, tls</a>
         	       
@@ -61,7 +61,15 @@ technical things behind the TLS and HTTPS protocol. Just Acquiring Free 3-months
 <li>It will download everything that is necessary</li>
 <li>Just follow the instruction to access the panel on your localhost and modify its settings</li>
 </ul>
-
+<h1 id="running-dns-proxy">Running dns-proxy</h1>
+<p>We use Adguard Dns-Proxy tool to proxify our dns queries through DOH.</p>
+<ul>
+<li>Install it from <a href="https://github.com/AdguardTeam/dnsproxy">this_link</a></li>
+<li>Extract it and run it using the following command or adjust it based on the description of the Project</li>
+<li>See the complete guide in the project directory, it is thorough and simple ;)</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>dnsproxy -l &lt;public_ip_of_vps&gt; -p <span style="color:#ae81ff">53</span> --https-port<span style="color:#f92672">=</span><span style="color:#ae81ff">443</span> --tls-crt<span style="color:#f92672">=</span>/path/crt.crt --tls-key<span style="color:#f92672">=</span>/path/key.pkcs8.pem -u https://dnsoverhttps.doh/dns-query  -b 8.8.8.8:53
+</span></span></code></pre></div>
 			</div>
 		</article>
 	</main>
@@ -73,15 +81,15 @@ technical things behind the TLS and HTTPS protocol. Just Acquiring Free 3-months
 		<div>
 			<ul>
 				
+				<li><a href="/posts/ai/">AI Tools</a></li>
+				
+				<li><a href="/posts/onions6/">Onion Links</a></li>
+				
 				<li><a href="/posts/osint5/">Android Sec</a></li>
 				
 				<li><a href="/posts/osint6/">App Sec</a></li>
 				
 				<li><a href="/posts/osint7/">Capture The Flag</a></li>
-				
-				<li><a href="/posts/greetings/">Onion Links and Search Engine</a></li>
-				
-				<li><a href="/posts/osint21/">OSINT Collections</a></li>
 				
 			</ul>
 		</div>

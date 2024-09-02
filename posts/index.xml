@@ -7,8 +7,50 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Actions</title>
+      <link>https://blog.alirezagharib.ir/posts/githubactions/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/githubactions/</guid>
+      <description>How efficiently use Github Action ?</description>
+    </item>
+    <item>
+      <title>Java Language Frameworks</title>
+      <link>https://blog.alirezagharib.ir/posts/java/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/java/</guid>
+      <description>Java various frameworks and tools</description>
+    </item>
+    <item>
+      <title>Self-Hosted</title>
+      <link>https://blog.alirezagharib.ir/posts/selfhosted/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/selfhosted/</guid>
+      <description>List of Self-Hosted Tools</description>
+    </item>
+    <item>
+      <title>Github Repositories</title>
+      <link>https://blog.alirezagharib.ir/posts/repos/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/repos/</guid>
+      <description>List of Useful Repositories</description>
+    </item>
+    <item>
+      <title>Go Language</title>
+      <link>https://blog.alirezagharib.ir/posts/go/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/go/</guid>
+      <description>List of Golang Frameworks and Tools</description>
+    </item>
+    <item>
+      <title>System Design</title>
+      <link>https://blog.alirezagharib.ir/posts/systemdesign/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/systemdesign/</guid>
+      <description>System Design Resources</description>
+    </item>
     <item>
       <title>AI Tools</title>
       <link>https://blog.alirezagharib.ir/posts/ai/</link>

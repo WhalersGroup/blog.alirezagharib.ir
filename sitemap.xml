@@ -2,6 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.alirezagharib.ir/categories/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/cicd-github-actions/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/githubactions/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/github-actions-ci/cd/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/java/</loc>
+    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/java/</loc>
+    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/java/</loc>
+    <lastmod>2024-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/self-hosted/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/self-hosted/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/selfhosted/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/repos/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/repositories-repos/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/respositories-repos/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/go/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/go-golang/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/go-golang/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/systemdesign/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/system-design/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/systemdesign/</loc>
+    <lastmod>2024-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.alirezagharib.ir/posts/ai/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,18 +75,6 @@
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/categories/ai-tools/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alirezagharib.ir/categories/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alirezagharib.ir/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alirezagharib.ir/posts/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alirezagharib.ir/tags/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/onions6/</loc>

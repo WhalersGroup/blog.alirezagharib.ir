@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Run Private Mastodon Instance</title>
+      <link>https://blog.alirezagharib.ir/posts/mastodon/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/mastodon/</guid>
+      <description>How to run a Private Mastodon Instance ?</description>
+    </item>
+    <item>
+      <title>Run Private Matrix (Element) Instance</title>
+      <link>https://blog.alirezagharib.ir/posts/element/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/element/</guid>
+      <description>How to run a Private Matrix (Element) Instance ?</description>
+    </item>
     <item>
       <title>Github Actions</title>
       <link>https://blog.alirezagharib.ir/posts/githubactions/</link>

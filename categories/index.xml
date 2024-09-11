@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastodon, Federation</title>
+      <link>https://blog.alirezagharib.ir/categories/mastodon-federation/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/mastodon-federation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matrix, Element, Federation</title>
+      <link>https://blog.alirezagharib.ir/categories/matrix-element-federation/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/categories/matrix-element-federation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Github, Actions, CI/CD</title>
       <link>https://blog.alirezagharib.ir/categories/github-actions-ci/cd/</link>

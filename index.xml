@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alirezagharib.ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VPS, Dedicated Server, VDS, VPN, email, and Domain Providers</title>
+      <link>https://blog.alirezagharib.ir/posts/vps/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alirezagharib.ir/posts/vps/</guid>
+      <description>List of VPS, dedicated server, VDS, VPN, email, and domain providers</description>
+    </item>
     <item>
       <title>Run Private Mastodon Instance</title>
       <link>https://blog.alirezagharib.ir/posts/mastodon/</link>

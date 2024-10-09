@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.alirezagharib.ir/categories/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/sysadmin/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/sysadmin-tools/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/sysadmin-tools/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/posts/rss/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/tags/rss-rss_feeds/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.alirezagharib.ir/categories/rss-rss_feeds/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/smartdns/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
@@ -18,9 +39,6 @@
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/categories/smartdns-proxy-sniproxy/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alirezagharib.ir/tags/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.alirezagharib.ir/posts/vps/</loc>
